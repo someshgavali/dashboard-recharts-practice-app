@@ -1,0 +1,22 @@
+.homegraph {
+  padding: 20px;
+}
+.homegraph-left-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.homegraph-left-top-heading{
+    margin-left: 20px;
+    padding: 20px;
+}
+.homegraph-left-top-buttons{
+    margin-right: 25px;
+}
+.homegraph-left-top-buttons > button{
+   margin: 0px 10px;
+}
+.homegraph-right> h2{
+    margin-left: 20px;
+    padding: 20px;
+}

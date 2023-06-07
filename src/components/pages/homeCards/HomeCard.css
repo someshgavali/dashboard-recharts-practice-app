@@ -1,0 +1,40 @@
+.parrent {
+  background-color: rgb(249, 252, 252);
+}
+.parrent > h1 {
+  
+  padding-top: 30px;
+  padding-left: 50px;
+  font-size: 20px;
+}
+
+.cardWrapper {
+  display: flex;
+}
+
+.home-page-card {
+  border: 1px solid rgb(232, 225, 225);
+  width: 25%;
+  /* height: 30%; */
+  padding: 20px;
+  margin: 20px 50px;
+  box-shadow: 1px 2px 5px 2px #888888;
+  border-radius: 10px;
+}
+.home-card-button-info {
+  display: flex;
+  margin-bottom: 20px;
+}
+.home-page-logo {
+  margin-top: 2px;
+
+  font-size: 15px !important;
+}
+.home-card-button {
+  margin-left: 20px;
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: blueviolet;
+}
